@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class movementP1 : MonoBehaviour {
 
+
+    Animator anim;
     public float movementSpeed;
     public float jumpSpeed;
     float moveVelocity;
@@ -15,6 +17,7 @@ public class movementP1 : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
     {
+        anim = GetComponent<Animator>();
         player = GetComponent<Rigidbody2D>();	
 	}
 	
@@ -32,12 +35,19 @@ public class movementP1 : MonoBehaviour {
         
         if(Input.GetKey(KeyCode.A))
         {
+            anim.SetInteger("State", 1);
             moveVelocity -= movementSpeed;
         }
 
         if (Input.GetKey(KeyCode.D))
         {
+
+            anim.SetInteger("State", 1);
             moveVelocity += movementSpeed;
+        }
+        else
+        {
+            anim.SetInteger("State", 0);
         }
 
         player.velocity = new Vector2(moveVelocity, player.velocity.y);
