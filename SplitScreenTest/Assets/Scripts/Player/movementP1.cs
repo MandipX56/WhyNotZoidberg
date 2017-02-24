@@ -32,19 +32,34 @@ public class movementP1 : MonoBehaviour {
                 player.velocity = new Vector2(player.velocity.x, jumpSpeed);
             }
         }
-        
-        if(Input.GetKey(KeyCode.A))
+
+
+        else if (Input.GetKeyDown(KeyCode.A))
+        {
+            transform.Rotate(Vector3.up * 180);
+        }
+        else if(Input.GetKey(KeyCode.A))
         {
             anim.SetInteger("State", 1);
             moveVelocity -= movementSpeed;
         }
 
-        if (Input.GetKey(KeyCode.D))
+        
+
+        else if (Input.GetKeyDown(KeyCode.D))
+        {
+            transform.Rotate(Vector3.up * 180);
+        }
+
+        else if (Input.GetKey(KeyCode.D))
         {
 
             anim.SetInteger("State", 1);
             moveVelocity += movementSpeed;
         }
+
+        
+
         else
         {
             anim.SetInteger("State", 0);
