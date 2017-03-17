@@ -265,7 +265,7 @@ public class GameHandler : MonoBehaviour
                 spawnPlayers(selectedCharacterNamePlayerOne, selectedCharacterNamePlayerTwo, numPlayers);
             }
 
-            Polluto_SFX.playSound ("levelload");
+           // Polluto_SFX.playSound ("levelload");
         }
     }
 
@@ -281,7 +281,7 @@ public class GameHandler : MonoBehaviour
 
     public void resume()
     {
-        Polluto_SFX.playSound("Button");
+        //Polluto_SFX.playSound("Button");
         isPaused = false;
         stopGame = false;
         pauseMenu.SetActive(false);
@@ -290,7 +290,7 @@ public class GameHandler : MonoBehaviour
 
     public void backToMainMenu()
     {
-        Polluto_SFX.playSound("Button");
+        //Polluto_SFX.playSound("Button");
         Time.timeScale = 1.0f;
         isPaused = false;
         pauseMenu.SetActive(false);

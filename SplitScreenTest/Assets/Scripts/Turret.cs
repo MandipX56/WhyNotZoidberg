@@ -48,10 +48,10 @@ public class Turret : MonoBehaviour
             }
         }
 
-        if (this.GetComponentInChildren<EnemyDamage>().health <= 0)
+       /* if (this.GetComponentInChildren<EnemyDamage>().health <= 0)
         {
             this.gameObject.SetActive(false);
-        }
+        }*/
 
         aim();
         lineOfSight();
