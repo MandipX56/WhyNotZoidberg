@@ -2,23 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class movementP2 : MonoBehaviour
-{
+public class P1Spritemovement : MonoBehaviour {
 
+    Animator anim;
     public float movementSpeed;
     public float jumpSpeed;
     float moveVelocity;
 
     public bool grounded = false;
 
-    public Vector3 newPosition;
-    public string currentState;
-
     private Rigidbody2D player;
 
     // Use this for initialization
     void Start()
     {
+        anim = GetComponent<Animator>();
         player = GetComponent<Rigidbody2D>();
     }
 
@@ -26,7 +24,7 @@ public class movementP2 : MonoBehaviour
     void Update()
     {
         //Jumping
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.W))
         {
             if (grounded == true)
             {
@@ -34,14 +32,36 @@ public class movementP2 : MonoBehaviour
             }
         }
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+
+        else if (Input.GetKeyDown(KeyCode.A))
         {
+            transform.Rotate(Vector3.up * 180);
+        }
+        else if (Input.GetKey(KeyCode.A))
+        {
+            anim.SetInteger("State", 1);
             moveVelocity -= movementSpeed;
         }
 
-        if (Input.GetKey(KeyCode.RightArrow))
+
+
+        else if (Input.GetKeyDown(KeyCode.D))
         {
+            transform.Rotate(Vector3.up * 180);
+        }
+
+        else if (Input.GetKey(KeyCode.D))
+        {
+
+            anim.SetInteger("State", 1);
             moveVelocity += movementSpeed;
+        }
+
+
+
+        else
+        {
+            anim.SetInteger("State", 0);
         }
 
         player.velocity = new Vector2(moveVelocity, player.velocity.y);
@@ -53,10 +73,6 @@ public class movementP2 : MonoBehaviour
         if (other.gameObject.CompareTag("ground"))
         {
             grounded = true;
-        }
-        else if (other.gameObject.CompareTag("Notground"))
-        {
-            grounded = false;
         }
     }
 
