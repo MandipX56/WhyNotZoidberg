@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: b5a91075fbbe38e438f913a14150d12a
+timeCreated: 1492703042
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lvl 3 Background1_0
+    21300002: Lvl 3 Background1_1
+    21300004: Lvl 3 Background1_2
+    21300006: Lvl 3 Background1_3
+    21300008: Lvl 3 Background1_4
+    21300010: Lvl 3 Background1_5
+    21300012: Lvl 3 Background1_6
+    21300014: Lvl 3 Background1_7
+    21300016: Lvl 3 Background1_8
+    21300018: Lvl 3 Background1_9
+    21300020: Lvl 3 Background1_10
+    21300022: Lvl 3 Background1_11
+    21300024: Lvl 3 Background1_12
+    21300026: Lvl 3 Background1_13
+    21300028: Lvl 3 Background1_14
+    21300030: Lvl 3 Background1_15
+    21300032: Lvl 3 Background1_16
+    21300034: Lvl 3 Background1_17
+    21300036: Lvl 3 Background1_18
+    21300038: Lvl 3 Background1_19
+    21300040: Lvl 3 Background1_20
+    21300042: Lvl 3 Background1_21
+    21300044: Lvl 3 Background1_22
+    21300046: Lvl 3 Background1_23
+    21300048: Lvl 3 Background1_24
+    21300050: Lvl 3 Background1_25
+    21300052: Lvl 3 Background1_26
+    21300054: Lvl 3 Background1_27
+    21300056: Lvl 3 Background1_28
+    21300058: Lvl 3 Background1_29
+    21300060: Lvl 3 Background1_30
+    21300062: Lvl 3 Background1_31
+    21300064: Lvl 3 Background1_32
+    21300066: Lvl 3 Background1_33
+    21300068: Lvl 3 Background1_34
+    21300070: Lvl 3 Background1_35
+    21300072: Lvl 3 Background1_36
+    21300074: Lvl 3 Background1_37
+    21300076: Lvl 3 Background1_38
+    21300078: Lvl 3 Background1_39
+    21300080: Lvl 3 Background1_40
+    21300082: Lvl 3 Background1_41
+    21300084: Lvl 3 Background1_42
+    21300086: Lvl 3 Background1_43
+    21300088: Lvl 3 Background1_44
+    21300090: Lvl 3 Background1_45
+    21300092: Lvl 3 Background1_46
+    21300094: Lvl 3 Background1_47
+    21300096: Lvl 3 Background1_48
+    21300098: Lvl 3 Background1_49
+    21300100: Lvl 3 Background1_50
+    21300102: Lvl 3 Background1_51
+    21300104: Lvl 3 Background1_52
+    21300106: Lvl 3 Background1_53
+    21300108: Lvl 3 Background1_54
+    21300110: Lvl 3 Background1_55
+    21300112: Lvl 3 Background1_56
+    21300114: Lvl 3 Background1_57
+    21300116: Lvl 3 Background1_58
+    21300118: Lvl 3 Background1_59
+    21300120: Lvl 3 Background1_60
+    21300122: Lvl 3 Background1_61
+    21300124: Lvl 3 Background1_62
+    21300126: Lvl 3 Background1_63
+    21300128: Lvl 3 Background1_64
+    21300130: Lvl 3 Background1_65
+    21300132: Lvl 3 Background1_66
+    21300134: Lvl 3 Background1_67
+    21300136: Lvl 3 Background1_68
+    21300138: Lvl 3 Background1_69
+    21300140: Lvl 3 Background1_70
+    21300142: Lvl 3 Background1_71
+    21300144: Lvl 3 Background1_72
+    21300146: Lvl 3 Background1_73
+    21300148: Lvl 3 Background1_74
+    21300150: Lvl 3 Background1_75
+    21300152: Lvl 3 Background1_76
+    21300154: Lvl 3 Background1_77
+    21300156: Lvl 3 Background1_78
+    21300158: Lvl 3 Background1_79
+    21300160: Lvl 3 Background1_80
+    21300162: Lvl 3 Background1_81
+    21300164: Lvl 3 Background1_82
+    21300166: Lvl 3 Background1_83
+    21300168: Lvl 3 Background1_84
+    21300170: Lvl 3 Background1_85
+    21300172: Lvl 3 Background1_86
+    21300174: Lvl 3 Background1_87
+    21300176: Lvl 3 Background1_88
+    21300178: Lvl 3 Background1_89
+    21300180: Lvl 3 Background1_90
+    21300182: Lvl 3 Background1_91
+    21300184: Lvl 3 Background1_92
+    21300186: Lvl 3 Background1_93
+    21300188: Lvl 3 Background1_94
+    21300190: Lvl 3 Background1_95
+    21300192: Lvl 3 Background1_96
+    21300194: Lvl 3 Background1_97
+    21300196: Lvl 3 Background1_98
+    21300198: Lvl 3 Background1_99
+    21300200: Lvl 3 Background1_100
+    21300202: Lvl 3 Background1_101
+    21300204: Lvl 3 Background1_102
+    21300206: Lvl 3 Background1_103
+    21300208: Lvl 3 Background1_104
+    21300210: Lvl 3 Background1_105
+    21300212: Lvl 3 Background1_106
+    21300214: Lvl 3 Background1_107
+    21300216: Lvl 3 Background1_108
+    21300218: Lvl 3 Background1_109
+    21300220: Lvl 3 Background1_110
+    21300222: Lvl 3 Background1_111
+    21300224: Lvl 3 Background1_112
+    21300226: Lvl 3 Background1_113
+    21300228: Lvl 3 Background1_114
+    21300230: Lvl 3 Background1_115
+    21300232: Lvl 3 Background1_116
+    21300234: Lvl 3 Background1_117
+    21300236: Lvl 3 Background1_118
+    21300238: Lvl 3 Background1_119
+    21300240: Lvl 3 Background1_120
+    21300242: Lvl 3 Background1_121
+    21300244: Lvl 3 Background1_122
+    21300246: Lvl 3 Background1_123
+    21300248: Lvl 3 Background1_124
+    21300250: Lvl 3 Background1_125
+    21300252: Lvl 3 Background1_126
+    21300254: Lvl 3 Background1_127
+    21300256: Lvl 3 Background1_128
+    21300258: Lvl 3 Background1_129
+    21300260: Lvl 3 Background1_130
+    21300262: Lvl 3 Background1_131
+    21300264: Lvl 3 Background1_132
+    21300266: Lvl 3 Background1_133
+    21300268: Lvl 3 Background1_134
+    21300270: Lvl 3 Background1_135
+    21300272: Lvl 3 Background1_136
+    21300274: Lvl 3 Background1_137
+    21300276: Lvl 3 Background1_138
+    21300278: Lvl 3 Background1_139
+    21300280: Lvl 3 Background1_140
+    21300282: Lvl 3 Background1_141
+    21300284: Lvl 3 Background1_142
+    21300286: Lvl 3 Background1_143
+    21300288: Lvl 3 Background1_144
+    21300290: Lvl 3 Background1_145
+    21300292: Lvl 3 Background1_146
+    21300294: Lvl 3 Background1_147
+    21300296: Lvl 3 Background1_148
+    21300298: Lvl 3 Background1_149
+    21300300: Lvl 3 Background1_150
+    21300302: Lvl 3 Background1_151
+    21300304: Lvl 3 Background1_152
+    21300306: Lvl 3 Background1_153
+    21300308: Lvl 3 Background1_154
+    21300310: Lvl 3 Background1_155
+    21300312: Lvl 3 Background1_156
+    21300314: Lvl 3 Background1_157
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lvl 3 Background1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 908
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 908
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1015
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1015
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1017
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1017
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1017
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1017
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_8
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1017
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 959
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_10
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 959
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 959
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1001
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1001
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1003
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1003
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1001
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 987
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 987
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 987
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_20
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 971
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 975
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 975
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 975
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_25
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 938
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 823
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 826
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 826
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_31
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 905
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_32
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 905
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_33
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 880
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_34
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 880
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_35
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 872
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_36
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 831
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_37
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 831
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 795
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 795
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 697
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 697
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_42
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 697
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_43
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 697
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 779
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 770
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 770
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 738
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_50
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 697
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_51
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 697
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 674
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 568
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 568
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 567
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_57
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_58
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 631
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_59
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_60
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 567
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_61
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 567
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 650
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 641
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 641
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 605
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 502
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_69
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 502
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_70
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 502
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 521
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 439
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 439
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_75
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 515
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_76
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 546
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_77
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 537
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_78
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 505
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_79
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 528
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 392
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_82
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 461
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_83
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 519
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_84
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 482
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_85
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 510
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_86
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 501
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_87
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 472
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_88
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 437
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 437
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_90
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 437
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_91
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 492
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_92
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 483
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_93
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 448
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 474
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_95
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 465
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_96
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 456
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_97
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 403
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_98
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 447
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_99
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 414
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_100
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 438
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_101
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 310
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 310
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_103
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 310
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_104
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 310
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_105
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 310
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_106
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 310
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_107
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 429
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 318
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_109
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 420
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_110
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 381
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_111
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 411
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_112
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 402
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_113
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 376
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_114
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 393
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 263
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_117
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 384
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_118
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 350
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_119
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 310
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_120
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_121
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_122
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 181
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_123
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 181
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_124
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_125
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 245
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_126
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_127
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_128
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 291
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_129
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 178
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_132
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 116
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_133
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 116
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_134
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 116
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_135
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 116
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_136
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 239
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_138
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 150
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_139
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_140
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_142
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 134
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_143
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_144
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 95
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_145
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 65
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_146
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_147
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 65
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_148
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 85
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_149
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_150
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 51
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_151
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 59
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_154
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_155
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_156
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lvl 3 Background1_157
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
