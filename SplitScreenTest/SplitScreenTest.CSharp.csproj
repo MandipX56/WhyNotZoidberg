@@ -52,9 +52,6 @@
     <Reference Include="UnityEngine">
       <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -70,9 +67,6 @@
     <Reference Include="UnityEngine.HoloLens">
       <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Purchasing.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.VR">
       <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
     </Reference>
@@ -82,19 +76,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Finished.cs" />
-    <Compile Include="Assets\Scripts\GameHandler.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\LvlSelect.cs" />
     <Compile Include="Assets\Scripts\Player\P1Spritemovement.cs" />
     <Compile Include="Assets\Scripts\Player\movementP1.cs" />
     <Compile Include="Assets\Scripts\Player\movementP2.cs" />
-    <Compile Include="Assets\Scripts\PlayerUI.cs" />
     <Compile Include="Assets\Scripts\ReadySetGo.cs" />
     <Compile Include="Assets\Scripts\SmoothFollow2D.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Scripts\Turret.cs" />
-    <Compile Include="Assets\Scripts\TurretProjectile.cs" />
     <Compile Include="Assets\Scripts\movingPlatform.cs" />
-    <Compile Include="Assets\Scripts\spawnObject.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
