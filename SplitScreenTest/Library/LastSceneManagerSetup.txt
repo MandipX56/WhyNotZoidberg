@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TimeTrialT.unity
+- path: Assets/Scenes/CPlevel.unity
   isLoaded: 1
   isActive: 1
