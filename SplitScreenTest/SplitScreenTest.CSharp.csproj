@@ -77,6 +77,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Finished.cs" />
     <Compile Include="Assets\Scripts\LvlSelect.cs" />
+    <Compile Include="Assets\Scripts\Player\BalancedMain.cs" />
+    <Compile Include="Assets\Scripts\Player\Jumpermovement.cs" />
+    <Compile Include="Assets\Scripts\Player\OnlineMove.cs" />
     <Compile Include="Assets\Scripts\Player\P1Spritemovement.cs" />
     <Compile Include="Assets\Scripts\Player\movementP1.cs" />
     <Compile Include="Assets\Scripts\Player\movementP2.cs" />

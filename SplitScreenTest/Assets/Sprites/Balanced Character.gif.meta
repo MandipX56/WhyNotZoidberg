@@ -1,9 +1,83 @@
 fileFormatVersion: 2
 guid: 8d3a11595d981c64a97befb7acf150e8
-timeCreated: 1489097920
+timeCreated: 1492743274
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Balanced Character_0
+    21300002: Balanced Character_1
+    21300004: Balanced Character_2
+    21300006: Balanced Character_3
+    21300008: Balanced Character_4
+    21300010: Balanced Character_5
+    21300012: Balanced Character_6
+    21300014: Balanced Character_7
+    21300016: Balanced Character_8
+    21300018: Balanced Character_9
+    21300020: Balanced Character_10
+    21300022: Balanced Character_11
+    21300024: Balanced Character_12
+    21300026: Balanced Character_13
+    21300028: Balanced Character_14
+    21300030: Balanced Character_15
+    21300032: Balanced Character_16
+    21300034: Balanced Character_17
+    21300036: Balanced Character_18
+    21300038: Balanced Character_19
+    21300040: Balanced Character_20
+    21300042: Balanced Character_21
+    21300044: Balanced Character_22
+    21300046: Balanced Character_23
+    21300048: Balanced Character_24
+    21300050: Balanced Character_25
+    21300052: Balanced Character_26
+    21300054: Balanced Character_27
+    21300056: Balanced Character_28
+    21300058: Balanced Character_29
+    21300060: Balanced Character_30
+    21300062: Balanced Character_31
+    21300064: Balanced Character_32
+    21300066: Balanced Character_33
+    21300068: Balanced Character_34
+    21300070: Balanced Character_35
+    21300072: Balanced Character_36
+    21300074: Balanced Character_37
+    21300076: Balanced Character_38
+    21300078: Balanced Character_39
+    21300080: Balanced Character_40
+    21300082: Balanced Character_41
+    21300084: Balanced Character_42
+    21300086: Balanced Character_43
+    21300088: Balanced Character_44
+    21300090: Balanced Character_45
+    21300092: Balanced Character_46
+    21300094: Balanced Character_47
+    21300096: Balanced Character_48
+    21300098: Balanced Character_49
+    21300100: Balanced Character_50
+    21300102: Balanced Character_51
+    21300104: Balanced Character_52
+    21300106: Balanced Character_53
+    21300108: Balanced Character_54
+    21300110: Balanced Character_55
+    21300112: Balanced Character_56
+    21300114: Balanced Character_57
+    21300116: Balanced Character_58
+    21300118: Balanced Character_59
+    21300120: Balanced Character_60
+    21300122: Balanced Character_61
+    21300124: Balanced Character_62
+    21300126: Balanced Character_63
+    21300128: Balanced Character_64
+    21300130: Balanced Character_65
+    21300132: Balanced Character_66
+    21300134: Balanced Character_67
+    21300136: Balanced Character_68
+    21300138: Balanced Character_69
+    21300140: Balanced Character_70
+    21300142: Balanced Character_71
+    21300144: Balanced Character_72
+    21300146: Balanced Character_73
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +108,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -76,7 +150,969 @@ TextureImporter:
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Balanced Character_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 409
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 409
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 409
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 409
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 409
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 409
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 409
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 409
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 409
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 409
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 345
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 345
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 345
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 345
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 345
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 345
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 345
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 345
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 345
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 345
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 345
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 285
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 285
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 285
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 285
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 285
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 285
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 285
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 285
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 287
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 285
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 219
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 219
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 219
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 219
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 219
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 219
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 219
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 219
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 221
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_44
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 219
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 219
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 219
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 156
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 156
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 156
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 156
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 156
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_56
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 156
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 156
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 92
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 92
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 92
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_62
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 92
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 92
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 92
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 91
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 91
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_67
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 93
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_68
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 14
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_71
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 42
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_72
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 40
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Balanced Character_73
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 40
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
