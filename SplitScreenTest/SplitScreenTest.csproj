@@ -90,6 +90,7 @@
     <Compile Include="Assets\Scripts\SmoothFollow2D.cs" />
     <Compile Include="Assets\Scripts\TimeTrial.cs" />
     <Compile Include="Assets\Scripts\Trap.cs" />
+    <Compile Include="Assets\Scripts\done.cs" />
     <Compile Include="Assets\Scripts\movingPlatform.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
