@@ -5,6 +5,9 @@ using UnityEngine;
 public class P1Spritemovement : MonoBehaviour {
 
     Animator anim;
+
+    public Transform centerOfMass;
+
     public float movementSpeed;
     public float jumpSpeed;
     float moveVelocity;
@@ -18,13 +21,16 @@ public class P1Spritemovement : MonoBehaviour {
     {
         anim = GetComponent<Animator>();
         player = GetComponent<Rigidbody2D>();
+
+        player.centerOfMass = centerOfMass.localPosition;
+
     }
 
     // Update is called once per frame
     void Update()
     {
         //Jumping
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.UpArrow))
         {
             if (grounded == true)
             {
@@ -33,7 +39,7 @@ public class P1Spritemovement : MonoBehaviour {
         }
 
 
-        else if (Input.GetKeyDown(KeyCode.A))
+        else if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             transform.Rotate(Vector3.up * 180);
         }
@@ -45,12 +51,12 @@ public class P1Spritemovement : MonoBehaviour {
 
 
 
-        else if (Input.GetKeyDown(KeyCode.D))
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             transform.Rotate(Vector3.up * 180);
         }
 
-        else if (Input.GetKey(KeyCode.D))
+        else if (Input.GetKey(KeyCode.RightArrow))
         {
 
             anim.SetInteger("State", 1);

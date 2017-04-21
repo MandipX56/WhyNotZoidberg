@@ -24,6 +24,12 @@ public class Finished : MonoBehaviour {
             {
                 Application.LoadLevel("CPlevel");
             }
+
+            if(Input.GetKey(KeyCode.M))
+            {
+                Application.LoadLevel("MAIN MENU");
+            }
+
         }
 		
 	}
@@ -39,7 +45,7 @@ public class Finished : MonoBehaviour {
             {
                 GUIReady1.text = "Player 1 Win";
                 GUIReady2.text = "Player 2 Lose";
-                GUIText.text = "Please press R to Restart";
+                GUIText.text = "Please press R to Restart or M to MainMenu";
                 reset = true;
             }
 
@@ -47,7 +53,7 @@ public class Finished : MonoBehaviour {
             {
                 GUIReady1.text = "Player 1 Lose";
                 GUIReady2.text = "Player 2 Win";
-                GUIText.text = "Please press R to Restart";
+                GUIText.text = "Please press R to Restart or M to MainMenu";
                 reset = true;
             }
 
